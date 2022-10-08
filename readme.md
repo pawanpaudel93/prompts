@@ -42,7 +42,7 @@
 ## ❯ Install
 
 ```
-$ npm install --save prompts
+$ npm install --save pawanpaudel93/prompts
 ```
 
 > This package supports Node 6 and above
